@@ -1,0 +1,31 @@
+h1{
+	color: red;
+}
+
+/*/Estoy probando colores y fuetes/*/
+p{
+	color: blue;
+	font-size: 15pt;
+}
+
+#primera-noticia{
+	color: green;
+	font-size: 12pt;
+}
+
+#segunda-noticia{
+	font-size: 20pt;
+}
+
+.encabezado{
+	font-size: 24pt;
+	text-transform: uppercase;
+}
+
+*.warning{
+	color: rgb(255, 0, 0);
+}
+
+.autor, .fecha, .ubicacion, h1, #segunda-noticia{
+	text-decoration: underline;
+}
