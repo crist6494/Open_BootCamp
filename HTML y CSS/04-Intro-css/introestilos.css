@@ -1,0 +1,28 @@
+/*Estilos para colores*/
+.colores{
+	color: red;
+}
+
+.color-hexadecimal{
+	color: #6915E0;
+}
+
+.color-rgb{
+	color: rgb(0, 255, 221);
+}
+
+.color-rgba{
+	color: rgba(234, 0, 255, 0.685);
+}
+
+/* Fondos */
+.fondo{
+	color: aqua;
+	/* background-color: cornflowerblue; */
+	background-image:url("https://ak.picdn.net/shutterstock/videos/1027544711/thumb/1.jpg");
+	background-position: center center;
+}
+.fondo-interno{
+	background-image: url("imagenes/Fondo.jpg");
+	background-position: left center;
+}
