@@ -26,3 +26,24 @@
 	background-image: url("imagenes/Fondo.jpg");
 	background-position: left center;
 }
+
+/* Tamaños */
+.ancho{
+	background-color: #6915E0;
+	width: 100px;
+}
+
+.alto{
+	background-color: aqua;
+	height: 100px;
+}
+
+.tarjeta{
+	border-style: solid;
+	border-color: rgb(93, 97, 96);
+	border-width: 1px;
+	/* border-top: none; */
+	padding: 10px 20px;
+/* 	padding: 10px 20px 30px 40px; */
+	margin: 10px 0px;
+}

@@ -1,0 +1,24 @@
+.div-1, .div-2{
+	background-color: red;
+	/* display: block; POR DEFECTO - div tiene este display */
+}
+
+.span-1 {
+	background-color: aqua;
+	/* display: inline; POR DEFECTO - sapn tiene este display */
+	/* height: 500px; */
+	float: left;
+}
+
+.span-2{
+	background-color: aqua;
+	/* display: inline; POR DEFECTO - sapn tiene este display */
+	/* height: 500px; */
+	float: left;
+}
+
+.img{
+	width: 50px;
+	height: 50px;
+	display: flex;
+}

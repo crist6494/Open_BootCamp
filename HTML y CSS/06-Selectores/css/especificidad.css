@@ -1,0 +1,19 @@
+/*(1,0,0)*/
+/*(0,1,0)*/
+/*(0,0,1)*/
+/*(0,0,0)*/
+
+h1#h1-id.h1-class{
+	color: aqua;
+}
+
+.h1-class{
+	color: yellow !important;
+}
+h1{
+	color: blue !important; /*EVITAR la medida de lo posible el !important*/
+}
+
+p{
+	color: red;
+}
